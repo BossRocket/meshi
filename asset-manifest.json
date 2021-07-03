@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/meshi/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/meshi/static/js/main.88bda198.chunk.js",
-    "main.js.map": "/meshi/static/js/main.88bda198.chunk.js.map",
+    "main.js": "/meshi/static/js/main.c5f3d59c.chunk.js",
+    "main.js.map": "/meshi/static/js/main.c5f3d59c.chunk.js.map",
     "runtime-main.js": "/meshi/static/js/runtime-main.0c6b0744.js",
     "runtime-main.js.map": "/meshi/static/js/runtime-main.0c6b0744.js.map",
     "static/js/2.6e28b5a9.chunk.js": "/meshi/static/js/2.6e28b5a9.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0c6b0744.js",
     "static/js/2.6e28b5a9.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.88bda198.chunk.js"
+    "static/js/main.c5f3d59c.chunk.js"
   ]
 }
