@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/meshi/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/meshi/static/js/main.e0f7c86a.chunk.js",
-    "main.js.map": "/meshi/static/js/main.e0f7c86a.chunk.js.map",
+    "main.js": "/meshi/static/js/main.b0c8b298.chunk.js",
+    "main.js.map": "/meshi/static/js/main.b0c8b298.chunk.js.map",
     "runtime-main.js": "/meshi/static/js/runtime-main.0c6b0744.js",
     "runtime-main.js.map": "/meshi/static/js/runtime-main.0c6b0744.js.map",
-    "static/js/2.6e28b5a9.chunk.js": "/meshi/static/js/2.6e28b5a9.chunk.js",
-    "static/js/2.6e28b5a9.chunk.js.map": "/meshi/static/js/2.6e28b5a9.chunk.js.map",
+    "static/js/2.d1e5e63a.chunk.js": "/meshi/static/js/2.d1e5e63a.chunk.js",
+    "static/js/2.d1e5e63a.chunk.js.map": "/meshi/static/js/2.d1e5e63a.chunk.js.map",
     "static/js/3.46112feb.chunk.js": "/meshi/static/js/3.46112feb.chunk.js",
     "static/js/3.46112feb.chunk.js.map": "/meshi/static/js/3.46112feb.chunk.js.map",
     "index.html": "/meshi/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/meshi/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.6e28b5a9.chunk.js.LICENSE.txt": "/meshi/static/js/2.6e28b5a9.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/meshi/static/media/logo.6ce24c58.svg"
+    "static/js/2.d1e5e63a.chunk.js.LICENSE.txt": "/meshi/static/js/2.d1e5e63a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0c6b0744.js",
-    "static/js/2.6e28b5a9.chunk.js",
+    "static/js/2.d1e5e63a.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.e0f7c86a.chunk.js"
+    "static/js/main.b0c8b298.chunk.js"
   ]
 }
